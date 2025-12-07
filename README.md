@@ -1,7 +1,8 @@
 Stopwatch Project
 
-This is a simple JavaScript Stopwatch Project created using HTML, CSS, and JavaScript. It includes basic stopwatch functionalities such as Start, Stop, Pause, Reset, and Lap timing (if you added).
+This is a simple JavaScript Stopwatch Project created using HTML, CSS, and JavaScript. It includes basic stopwatch functionalities such as Start, Stop, Pause, Reset, and Lap timing.
 
+----
 🚀 Features
 
 Start the stopwatch
@@ -14,11 +15,13 @@ Clean UI
 
 Fully responsive (if your design supports it)
 
+----
 📂 Project Structure
 Stopwatch.html
 
 All HTML, CSS, and JavaScript code is included inside one file.
 
+----
 ▶️ How to Run
 
 Download or clone the repository.
@@ -27,6 +30,7 @@ Open Stopwatch.html in any browser.
 
 The stopwatch will start working immediately.
 
+----
 🛠️ Technologies Used
 
 HTML5
@@ -36,6 +40,8 @@ CSS3
 JavaScript
 
 Bootstrap 5 (for styling buttons, layout, spacing)
+
+----
 
 🎨 Bootstrap Usage Details
 
@@ -53,6 +59,8 @@ container — wrapper for layout
 
 Bootstrap helps to quickly design a clean and responsive layout without writing much CSS.
 
+----
+
 📄 Original Technologies Used
 
 HTML5
@@ -61,13 +69,19 @@ CSS3
 
 JavaScript
 
+----
+
 📸 Screenshot
 
-(You can rename your image to screenshot.png and upload it in the repo)
+Stopwatch.png
+
+----
 
 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+----
 
 📄 License
 
